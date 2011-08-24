@@ -19,6 +19,7 @@
 /docs/Makefile
 /eggs
 /parts
+/tmp
 
 ### Eclipse Patterns
 .project
