@@ -2,8 +2,10 @@
 seminode.renderer - Test project for customizing Tenjin
 =======================================================
 
-.. toctree::
-   :maxdepth: 3
+Deprecation Notice
+==================
+
+**This project is deprecated and will not be developed anymore**
 
 Quickstart
 ==========
